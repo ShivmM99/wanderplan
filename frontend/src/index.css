@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Leaflet's map container needs an explicit height to render */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
